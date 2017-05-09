@@ -1,0 +1,2 @@
+class SubSquare < Square
+end
